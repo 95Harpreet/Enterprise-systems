@@ -1,1 +1,1 @@
-# Enterprise-systems
+# This Python code demonstrates fundamental mathematical operations and control flow. It begins by adding the two variables a and b and showing the result. After that, the result is displayed after variable y is subtracted from x. The while loop that prints "Hello world" three times is shown in the next section. Then, to print "Welcome to Visual Studio Code," a straightforward function called "fun" is defined and used.
